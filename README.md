@@ -5,4 +5,4 @@ Welcome to my GitHub profile! Here's a little about what I'm up to:
 - 💬 I excel in **React** and **Django**.
 - 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com/in/nwils000).
 
-Feel free to check out my projects, and I'm always open to collaborating on innovative ideas!
+Feel free to check out my projects, and I'm always open to collaborating!
