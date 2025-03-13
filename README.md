@@ -1,8 +1,7 @@
-Welcome to my GitHub profile! Here's a little about what I'm up to:
+# Welcome to My GitHub
 
-- 🔭 I’m currently working on **Kid Kapital**, a family hub for managing allowances.
-- 🌱 I’m enhancing my skills in **Django**.
-- 💬 I excel in **React** and **Django**.
-- 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com/in/nwils000).
+I work for **Awesome Inc**, maintaining their websites and providing coding assistance to startups in their accelerator program. I also work for **Abundant Technologies**, developing **ForeYou**, an anti-budgeting app.
 
-Feel free to check out my projects, and I'm always open to collaborating!
+I primarily use **React** for the frontend and **Node or Python** for the backend.
+
+Feel free to check out my projects, and connect with me on [LinkedIn](https://linkedin.com/in/nwils000).
